@@ -19,8 +19,8 @@
 	> hbox:nth-child(2)
 	> stack:nth-child(2)
 	> img:nth-child(3) {
-	height: 32px !important;
-	width: 32px !important;
+	height: 48px !important;
+	width: 48px !important;
 }
 
 /* reload icon */
@@ -30,6 +30,6 @@
 	> hbox:nth-child(2)
 	> stack:nth-child(2)
 	> hbox:nth-child(1) {
-	height: 32px !important;
-	width: 32px !important;
+	height: 48px !important;
+	width: 48px !important;
 }
